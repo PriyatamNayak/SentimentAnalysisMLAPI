@@ -1,2 +1,4 @@
 # SentimentAnalysisMLAPI
-Django API to hold and store ML models trained for the purpose of Political Sentiment Analysis 
+Django API to train, test and store predictions / artifacts of ML models trained for the purpose of Political Sentiment Analysis. 
+
+
